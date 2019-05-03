@@ -1,0 +1,11 @@
+{
+  "name": "simpleRedux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XingMXTeam/simpleRedux.git",
+  "author": "毛毛 <xunxing1989@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.8.6"
+  }
+}
